@@ -1,0 +1,14 @@
+requests
+pycryptodome
+customtkinter
+packaging
+tk
+Crypto
+pystyle
+colorama
+auto_py_to_exe
+pyinstaller
+wmi
+customtkinter
+cryptography
+Pillow
