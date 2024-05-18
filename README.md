@@ -1,5 +1,5 @@
 <a href="https://t.me/DeepWoodStealer">
-  <img src="https://github.com/Nxploit/DeepWood/blob/main/DeepWood_assets/img/github_nr.png"  
+  <img src="https://github.com/Nxploit/Deepwood/blob/main/DeepWood_assets/img/github_nr.png"  
     width="200" align="right" alt="Join Telegram" />
 </a>  
        
