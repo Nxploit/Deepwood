@@ -22,7 +22,7 @@ Deepwood is available as [Premium Version](https://t.me/DeepwoodStealer) or [Fre
  - Melt Stub.
  - Full Fud 0/71 Detectation
 
-![photo](https://github.com/Nxploit/DeepWood/assets/170117420/48617db6-2dbf-4d00-aa9f-2d01221d657e)
+![photo](https://github.com/Nxploit/Deepwood/assets/170156595/7631fed7-ba3a-43e0-8312-1aba293de39d)
 
 
 [![GitHub license](https://img.shields.io/github/license/zauberzeug/nicegui?color=orange)](https://github.com/zauberzeug/nicegui/blob/main/LICENSE)
@@ -80,7 +80,8 @@ Note: NiceGUI will automatically reload CFG if you change values.
 
 ## GUI
 
-![Screenshot 2024-05-18 022622](https://github.com/Nxploit/DeepWood/assets/170117420/60e05331-b568-4a64-a0c5-2e8b3f65ece8)
+![Screenshot 2024-05-18 022622](https://github.com/Nxploit/Deepwood/assets/170156595/f3e75bc4-f53b-47b1-8fb7-821e6160e002)
+
 
 
 ## Why?
