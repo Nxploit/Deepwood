@@ -76,7 +76,7 @@ builder.pyw
 ```
 
 The GUI is now available on screen.
-Note: NiceGUI will automatically reload CFG if you change values.
+Note: Deepwood GUI will automatically reload CFG if you change values.
 
 ## GUI
 
@@ -94,7 +94,7 @@ By harnessing the power of Vue, Quasar, and FastAPI, we empower our clients with
 
 ## Contributing
 
-Thank you for your interest in contributing to NiceRAT! We are thrilled to have you on board and appreciate your efforts to make this project even better.
+Thank you for your interest in contributing to Deepwood! We are thrilled to have you on board and appreciate your efforts to make this project even better.
 
 As a growing open-source project, we understand that it takes a community effort to achieve our goals. That's why we welcome all kinds of contributions, no matter how small or big they are. Whether it's adding new features, fixing bugs, improving documentation, or suggesting new ideas, we believe that every contribution counts and adds value to our project.
 
