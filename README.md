@@ -72,7 +72,7 @@ install.bat
 Launch it with:
 
 ```bash
-builder.bat
+builder.pyw
 ```
 
 The GUI is now available on screen.
